@@ -15,7 +15,9 @@
 
 - 📄 Know about my experiences <a href="https://github.com/chaniotakisv/chaniotakisv.github.io/blob/main/chaniotakisv_cv.pdf" target="blank">Resume</a>
 <br/>
-<h3 align="center" > <img src="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
+<p align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmV6bXVleW5pNHVsNm5jdmtvN3M1MGp5cHc3MG80aGx0ZTBoZHVueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.webp" width="200" height="200"></p>
+ <br>
+ <h3 align="center" >Connect with me</h3>
 
 <p align="center">
 
