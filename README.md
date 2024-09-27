@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Heraklion Crete, Greece</h3>
 <br>
 
-- 🔭 I’m a <b>MSc. Software Engineer</b> specializing in Data management and analytics
+- 🔭 I’m a <b>MSc. Data Engineer</b> specializing in Data management and analytics
 
 - 🔭 I obtained my Master of Science from Computer Science Department (CSD), University of Crete
 
