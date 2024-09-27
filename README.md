@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaggelis</a></h1>
-<h3 align="center">A passionate Software Engineer from Heraklion Crete, Greece</h3>
+<h3 align="center">A passionate Data Engineer from Heraklion Crete, Greece</h3>
 <br>
 
 - 🔭 I’m a <b>MSc. Data Engineer</b> specializing in Data management and analytics
